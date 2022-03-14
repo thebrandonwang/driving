@@ -11,7 +11,7 @@ elif country == 'USA':
 		print('you can drive in USA')
 	else:
 		print('you cannot drive in USA')
-elif country == UK:
+elif country == 'UK':
 	if age >= 17:
 		print('you can drive in UK')
 	else:
